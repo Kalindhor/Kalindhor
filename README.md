@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalindhor
 - 👀 I’m interested in Web design 
-- 🌱 I’m currently learning Web design and marketing 
+- 🌱 I’m currently learning Web design
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
