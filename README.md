@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalindhor
+- 👋 Hi, I’m @Eduardo Renan
 - 👀 I’m interested in Web design 
 - 🌱 I’m currently learning Web design
 - 💞️ I’m looking to collaborate on 
