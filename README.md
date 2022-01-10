@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduardo Renan
+- 👋 Hi, I’m @Eduardo Nunes
 - 👀 I’m interested in Web design 
 - 🌱 I’m currently learning Web design
 - 💞️ I’m looking to collaborate on 
